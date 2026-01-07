@@ -1,5 +1,5 @@
 # Netflix-Tableau-Dashboard
-Covid-19 Analysis: This is an interactive Tableau dashboard that analyzes the Netflix content distribution and trends across countries, time and genres.
+**Netflix Analysis**: This is an interactive Tableau dashboard that analyzes the Netflix content distribution and trends across countries, time and genres.
 
 🛠️ **Tech Stack**
 
@@ -7,15 +7,13 @@ Covid-19 Analysis: This is an interactive Tableau dashboard that analyzes the Ne
 
 • 📊 **Tableau Worksheets & Dashboards** – Individual analytical views combined into an interactive dashboard.
 
-• 🧠 **Calculated Fields** – Used to derive metrics such as recovery rates, death ratios and trends.
-
 **Features / Highlights**
 
 **Key Visual**
 
-• **Global Map**: Visualize the number of Netflix titles produced by each country. Red color indicate movies whereas orange color indicate TVshows.
+• **Global Map**: Visualize the number of type produced by each country. Red color indicate movies whereas orange color indicate TVshows.
 
-• **Dual Line Chart**: Visualize the number of releases by Release Year, separated into Movies and TV Shows
+• **Dual Line Chart**: Visualize the number of releases of Movies and TV Shows by Year.
 
 • **Pie Chart**: Visualizes the proportion of Movies and TV Shows on Netflix.
 
@@ -23,7 +21,7 @@ Covid-19 Analysis: This is an interactive Tableau dashboard that analyzes the Ne
 
 **Insights and Conclusions**
 
-• Netflix’s library is heavily movie-focused, with roughly 7 out of every 10 titles being movies.
+• Netflix’s library is heavily movie-focused with contribution of 69.62% whereas TV Shows are 30.38%.
 
 • Netflix's top genres is Dramas, International Movies with 362 Content count.
 
