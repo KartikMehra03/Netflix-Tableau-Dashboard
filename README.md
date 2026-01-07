@@ -19,7 +19,7 @@ Covid-19 Analysis: This is an interactive Tableau dashboard that analyzes the Ne
 
 • **Pie Chart**: Visualizes the proportion of Movies and TV Shows on Netflix.
 
-• **horizontal bar chart**: Visualizes the most common content genres on Netflix.
+• **Horizontal Bar Chart**: Visualizes the most common content genres on Netflix.
 
 **Insights and Conclusions**
 
